@@ -1,1 +1,8 @@
 У челевека из ветки demo отличаются ноги от человека из ветки master
+Комментарии коммитов:
+1 Create hometask.txt
+2 merg
+3 fix readme
+4 README added
+5 init
+6 add list comit
